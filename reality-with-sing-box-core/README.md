@@ -22,3 +22,6 @@ python3 first.py TELEGRAM_BOT_TOKEN
 ```
 /start
 ```
+```
+/status sing-box
+```
